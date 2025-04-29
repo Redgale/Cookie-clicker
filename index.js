@@ -1,0 +1,1 @@
+PlaySound('snd/tick.mp3');Game.CloseNote(1);
